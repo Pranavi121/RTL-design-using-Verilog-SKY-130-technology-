@@ -2,6 +2,4 @@
 
 
 This is a repository on RTL Design using Verilog with Sky130 Technology workshop conducted by VSD during 1 st December,2021 to 5 th December,2021.
-VSD-IAT: VLSI System Design-Intelligent Assessment Technology is a training platform designed by VLSI system Design which is best suited for the design requirements. It developed for providing automated & Self-paced Learning experience from IC to device physics.
-
-
+VSD-IAT: VLSI System Design-Intelligent Assessment Technology is a training platform designed by VLSI system Design which is best suited for the design requirements.
